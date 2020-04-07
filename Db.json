@@ -1,0 +1,22 @@
+{
+  "keyboard": {
+    "company": "dell",
+    "quantity": 100
+  },
+  "mouse": {
+    "company": "dell",
+    "quantity": 300
+  },
+  "laptops": {
+    "company": "dell",
+    "quantity": 100
+  },
+  "ram": {
+    "company": "kingston",
+    "quantity": 250
+  },
+  "lcd": {
+    "company": "dell",
+    "quantity": 100
+  }  
+}
